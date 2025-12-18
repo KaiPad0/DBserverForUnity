@@ -1,2 +1,17 @@
+# Environments
+/venv/
 .env
+
+# Python cache
+/__pycache__/
+*.pyc
+
+# Instance folder
+/instance/
+
+# Database files
+*.sqlite3
+*.db
+
+# macOS
 .DS_Store
